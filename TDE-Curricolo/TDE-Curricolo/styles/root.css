@@ -1,0 +1,16 @@
+:root {
+    /* Colors */
+    --color-black: rgb(21,21,21);
+    --color-green: rgb(78,225,160);
+    --color-gray: rgb(36,36,36);
+    --color-white-gray: rgb(217,217,217);
+    --color-white: rgb(255,255,255);
+
+
+    /* Typography */
+    --font-sp-bold-large: "Space Grotesk Bold Large";
+    --font-sp-bold-medium: "Space Grotesk Medium";
+
+
+    /* Spaces */
+}

@@ -1,0 +1,64 @@
+h1, h2, h3{
+    font-family: var(--font-sp-bold-large);    
+    color: var(--color-white);
+}
+
+h1{    
+    font-size: 88px;
+    line-height: 88px;
+    letter-spacing: -2.5px;
+}
+
+h2{   
+    font-size: 48px;
+    line-height: 56px;
+    letter-spacing: -1.5px;
+}
+
+h3{   
+    font-size: 24px;
+    line-height: 32px;    
+}
+
+p{
+    color: var(--color-white);
+    font-family: var(--font-sp-bold-medium);
+    font-size: 18px;
+    line-height: 28px;    
+}
+
+html{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;       
+    background-color: var(--color-black); 
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+
+header, main, footer{
+    padding: 0px 12rem;
+}
+
+footer{
+    margin-top: 10rem;    
+    background-color: var(--color-gray);
+}
+
+main, footer{
+    position: relative;
+    overflow: hidden;
+}
+
+
+    
+
+
+
+
