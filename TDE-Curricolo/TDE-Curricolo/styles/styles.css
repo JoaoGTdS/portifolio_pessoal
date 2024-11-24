@@ -228,6 +228,10 @@ header {
     
 }
 
+.p-desc {
+    width: 65%;
+}
+
 main {
     margin-top: 8rem;
 }
